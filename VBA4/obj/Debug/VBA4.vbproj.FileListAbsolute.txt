@@ -1,0 +1,12 @@
+c:\users\сергей\documents\visual studio 2015\Projects\VBA4\VBA4\bin\Debug\VBA4.exe.config
+C:\Users\Сергей\documents\visual studio 2015\Projects\VBA4\VBA4\bin\Debug\VBA4.exe
+C:\Users\Сергей\documents\visual studio 2015\Projects\VBA4\VBA4\bin\Debug\VBA4.pdb
+C:\Users\Сергей\documents\visual studio 2015\Projects\VBA4\VBA4\bin\Debug\VBA4.xml
+C:\Users\Сергей\documents\visual studio 2015\Projects\VBA4\VBA4\obj\Debug\VBA4.vbprojResolveAssemblyReference.cache
+C:\Users\Сергей\documents\visual studio 2015\Projects\VBA4\VBA4\obj\Debug\VBA4.vbproj.ResolveComReference.cache
+C:\Users\Сергей\documents\visual studio 2015\Projects\VBA4\VBA4\obj\Debug\VBA4.Form1.resources
+C:\Users\Сергей\documents\visual studio 2015\Projects\VBA4\VBA4\obj\Debug\VBA4.Resources.resources
+C:\Users\Сергей\documents\visual studio 2015\Projects\VBA4\VBA4\obj\Debug\VBA4.vbproj.GenerateResource.Cache
+C:\Users\Сергей\documents\visual studio 2015\Projects\VBA4\VBA4\obj\Debug\VBA4.exe
+C:\Users\Сергей\documents\visual studio 2015\Projects\VBA4\VBA4\obj\Debug\VBA4.xml
+C:\Users\Сергей\documents\visual studio 2015\Projects\VBA4\VBA4\obj\Debug\VBA4.pdb
